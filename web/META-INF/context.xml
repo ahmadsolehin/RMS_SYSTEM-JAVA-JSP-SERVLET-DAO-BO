@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/Cobaan">
+<Resource name="jdbc/rms" auth="Container" type="javax.sql.DataSource"
+               maxActive="100" maxIdle="10" maxWait="10000"
+               username="root" password="" driverClassName="com.mysql.jdbc.Driver"
+               url="jdbc:mysql://localhost:3306/rms"/>
+
+<Resource name="jdbc/it_dept" auth="Container" type="javax.sql.DataSource"
+               maxActive="100" maxIdle="10" maxWait="10000"
+               username="root" password="" driverClassName="com.mysql.jdbc.Driver"
+               url="jdbc:mysql://localhost:3306/it_dept"/>
+</Context>
