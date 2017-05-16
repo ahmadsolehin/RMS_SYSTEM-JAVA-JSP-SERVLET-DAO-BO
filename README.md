@@ -1,6 +1,7 @@
 # RMS_SYSTEM-JAVA-JSP-SERVLET-DAO-BO
 <br>
-RMS is a Resource Management System for contractor.
+RMS is a Resource Management System for contractor. This system is build using AdminLTE bootstrap template. 
+<br>
 
 # screenshot
 
