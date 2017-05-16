@@ -1,4 +1,6 @@
 # RMS_SYSTEM-JAVA-JSP-SERVLET-DAO-BO
+<br>
+RMS is a Resource Management System
 
 # screenshot
 
