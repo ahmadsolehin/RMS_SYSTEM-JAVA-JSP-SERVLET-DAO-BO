@@ -2,7 +2,15 @@
 <br>
 RMS is a Resource Management System for contractor. This system is build using AdminLTE bootstrap template. 
 <br>
-cvdfdgd
+
+# Feature
+
+- Datatable Jquery
+- Ajax Jquery
+- Rest Api
+- DataSource Connection
+<br>
+
 # screenshot
 
 ![rms-2](https://cloud.githubusercontent.com/assets/12325386/26089071/7fa91242-3a2d-11e7-9fa6-4a8f793ce7ac.png)
