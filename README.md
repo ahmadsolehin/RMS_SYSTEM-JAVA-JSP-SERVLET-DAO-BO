@@ -3,6 +3,10 @@
 RMS is a Resource Management System for contractor. This system is build using AdminLTE bootstrap template. 
 <br>
 
+
+<li>Originally created and manipulated by ahmad solehin</li>
+<li>very simple code to use with</li>
+
 # Feature
 
 - Implement Data Access Object and Bussiness Object
