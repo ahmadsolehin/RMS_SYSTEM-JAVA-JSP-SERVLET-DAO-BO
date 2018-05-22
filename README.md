@@ -11,7 +11,7 @@ RMS is a Resource Management System for contractor. This system is build using A
 
 - Implement Data Access Object and Bussiness Object
 - MVC structure like SPRING FRAMEWORK
-- Datatable Jquery
+- Server Side Datatable Jquery
 - Ajax Jquery
 - Rest Api
 - DataSource Connection
